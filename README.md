@@ -30,7 +30,7 @@ element in an `Array`, and "gather" the results into a new `Array`. We'll start
 by looking at how we would build the functionality ourselves, using a `for...of`
 loop, then show how `map()` can save us work and improve our code.
 
-We'll also use this as a chance to demonstrate some of the power of functions in
+\W/*-e'll also use this as a chance to demonstrate some of the power of functions in
 JavaScript. We'll write the code **four times**, making it increasingly
 efficient and _expressive_ each time.
 
